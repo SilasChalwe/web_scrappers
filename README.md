@@ -68,8 +68,8 @@ pkg install python python-pip firefox-geckodriver
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd scrapper
+git clone git@github.com:SilasChalwe/web_scrappers.git
+cd web_scrapper
 
 # Create virtual environment
 python3 -m venv venv
